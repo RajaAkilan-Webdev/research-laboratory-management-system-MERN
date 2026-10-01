@@ -1,5 +1,7 @@
 # Research Laboratory Management System
 
+A MERN-based Research Laboratory Management System for digitally managing experiments, protocols, reactions, observations, results, and experiment history. It provides role-based access for researchers and laboratory admins with secure authentication and structured laboratory record management.
+
 ## Project Topic
 
 Research laboratories require structured recording of reactions, observations, protocols, and experiment history.
